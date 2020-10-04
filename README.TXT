@@ -46,11 +46,6 @@ Set Up Environment(Tested in Fedora 8/9 and Ubuntu)
 			lib32stdc++6
 			lib32z1
 
-		If you are using Ubuntu amd64, you may need to install 32-bit packages listed below.
-			libc6-i386
-			lib32stdc++6
-			lib32z1
-
 	b. Fedora
 		python 2.7 or above.
 		sudo yum groupinstall "Development Tools"
